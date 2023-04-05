@@ -21,6 +21,6 @@
 ```
 this will start metro bundler.
 
-# Download APK. file from google drive link given below.
+# Download APK. file and App guide pdf from google drive link given below.
 
-https://drive.google.com/file/d/1P0VRujqRQMf-o97nyEgcJB7J7UUn8La-/view?usp=share_link
+https://drive.google.com/drive/folders/19eziEhJgGLTtkYADPolr1IaW4IAbTiMZ?usp=share_link
