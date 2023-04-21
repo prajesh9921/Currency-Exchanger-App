@@ -1,5 +1,4 @@
-# Sharding_Assignment
-
+# Currency Exchanger App
 
 # Installation
 
